@@ -1,0 +1,64 @@
+*{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    margin: 0;
+}
+
+header{
+    background-color:rgb(22, 70, 22);
+    color: whitesmoke;
+    position:fixed;
+}
+
+.header-list{
+display: inline;
+}
+
+.content {
+    margin: 0;
+}
+
+h1{
+    margin-left:50%;
+    padding: 15px 0px
+
+}
+
+
+img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: 45%;
+    border: 3px solid rgb(85, 109, 85);
+}
+
+p{
+margin: 15px;
+padding-right: 30px;
+padding-left: 30px;
+font-size: 12px;
+
+}
+.contact-form {
+    background-color: wheat;
+    margin:0;
+ }
+
+ h2 {
+     margin-left: 50%;
+     padding: 20px;
+ }
+
+#query {
+    margin-left: 50%;
+}
+
+.form-list {
+    display: block;
+}
+
+footer {
+    background-color: rgb(44, 121, 121);
+    margin: 0;
+}
